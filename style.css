@@ -792,7 +792,7 @@ hr {
     nav {
         position: absolute;
         inset: 0;
-        margin: auto;
+        margin-left: 15px;
         align-items: center;
         justify-content: center;
         min-height: 0;
