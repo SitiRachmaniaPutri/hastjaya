@@ -793,6 +793,7 @@ hr {
         position: absolute;
         inset: 0;
         margin-left: 15px;
+        padding-left: 15px;
         align-items: center;
         justify-content: center;
         min-height: 0;
